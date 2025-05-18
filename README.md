@@ -30,7 +30,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=touazi-sirem&show_icons=true&theme=github_dark" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yacine-dev&theme=github-dark&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=touazi-sirem&theme=github-dark&hide_border=false" />
 </p>
 
 ---
